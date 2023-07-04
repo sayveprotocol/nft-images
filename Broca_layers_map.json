@@ -1,0 +1,322 @@
+{
+  "01_background": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Vox_dk": {
+        "att_chance": 0.02,
+        "black_list_att": []
+      },
+      "Vox_chipsahoy": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Vox_lion": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Vox_backbone": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_vkr": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_tpt": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_earth": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_galaxy": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_generic": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_moon": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_neptune": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_terra": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_warp": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_jupiter": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Vox_meteorite": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Vox_wormhole": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "02_Character": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Broca-Brown-Black": {
+        "att_chance": 0.5714,
+        "black_list_att": []
+      },
+      "Broca-Brown-Green": {
+        "att_chance": 0.4286,
+        "black_list_att": []
+      },
+      "Broca-Brown-Red": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Brown-White": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Brown-Yellow": {
+        "att_chance": 0.1429,
+        "black_list_att": []
+      },
+      "Broca-Green-Black": {
+        "att_chance": 0.5714,
+        "black_list_att": []
+      },
+      "Broca-Green-Green": {
+        "att_chance": 0.4286,
+        "black_list_att": []
+      },
+      "Broca-Green-Red": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Green-White": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Green-Yellow": {
+        "att_chance": 0.1429,
+        "black_list_att": []
+      },
+      "Broca-Maroon-Black": {
+        "att_chance": 0.5714,
+        "black_list_att": []
+      },
+      "Broca-Maroon-Green": {
+        "att_chance": 0.4286,
+        "black_list_att": []
+      },
+      "Broca-Maroon-Red": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Maroon-White": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Maroon-Yellow": {
+        "att_chance": 0.1429,
+        "black_list_att": []
+      },
+      "Broca-Orange-Black": {
+        "att_chance": 0.5714,
+        "black_list_att": []
+      },
+      "Broca-Orange-Green": {
+        "att_chance": 0.4286,
+        "black_list_att": []
+      },
+      "Broca-Orange-Red": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Orange-White": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Orange-Yellow": {
+        "att_chance": 0.1429,
+        "black_list_att": []
+      },
+      "Broca-Purple-Black": {
+        "att_chance": 0.5714,
+        "black_list_att": []
+      },
+      "Broca-Purple-Green": {
+        "att_chance": 0.4286,
+        "black_list_att": []
+      },
+      "Broca-Purple-Red": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Purple-White": {
+        "att_chance": 0.2857,
+        "black_list_att": []
+      },
+      "Broca-Purple-Yellow": {
+        "att_chance": 0.1429,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "03_Eyes": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Eyes-Broca-001": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Eyes-Broca-002": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Eyes-Broca-003": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Eyes-Broca-004": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Eyes-Broca-005": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Eyes-Broca-006": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Eyes-Broca-007": {
+        "att_chance": 0.2,
+        "black_list_att": []
+      },
+      "Eyes-Broca-008": {
+        "att_chance": 0.2,
+        "black_list_att": []
+      },
+      "Eyes-Broca-009": {
+        "att_chance": 0.25,
+        "black_list_att": []
+      },
+      "Eyes-Broca-010": {
+        "att_chance": 0.25,
+        "black_list_att": []
+      },
+      "Eyes-Broca-011": {
+        "att_chance": 0.3,
+        "black_list_att": []
+      },
+      "Eyes-Broca-012": {
+        "att_chance": 0.3,
+        "black_list_att": []
+      },
+      "Eyes-Broca-013": {
+        "att_chance": 0.35,
+        "black_list_att": []
+      },
+      "Eyes-Broca-014": {
+        "att_chance": 0.35,
+        "black_list_att": []
+      },
+      "Eyes-Broca-015": {
+        "att_chance": 0.4,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "04_Mouth": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Mouth-Broca-001": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Mouth-Broca-002": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Mouth-Broca-003": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Mouth-Broca-004": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Mouth-Broca-005": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Mouth-Broca-006": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Mouth-Broca-007": {
+        "att_chance": 0.2,
+        "black_list_att": []
+      },
+      "Mouth-Broca-008": {
+        "att_chance": 0.2,
+        "black_list_att": []
+      },
+      "Mouth-Broca-009": {
+        "att_chance": 0.25,
+        "black_list_att": []
+      },
+      "Mouth-Broca-010": {
+        "att_chance": 0.25,
+        "black_list_att": []
+      },
+      "Mouth-Broca-011": {
+        "att_chance": 0.3,
+        "black_list_att": []
+      },
+      "Mouth-Broca-012": {
+        "att_chance": 0.3,
+        "black_list_att": []
+      },
+      "Mouth-Broca-013": {
+        "att_chance": 0.35,
+        "black_list_att": []
+      },
+      "Mouth-Broca-014": {
+        "att_chance": 0.35,
+        "black_list_att": []
+      },
+      "Mouth-Broca-015": {
+        "att_chance": 0.4,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  }
+}

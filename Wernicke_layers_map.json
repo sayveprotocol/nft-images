@@ -1,0 +1,322 @@
+{
+  "01_background": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Vox_dk": {
+        "att_chance": 0.02,
+        "black_list_att": []
+      },
+      "Vox_chipsahoy": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Vox_lion": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Vox_backbone": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_vkr": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_tpt": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Vox_earth": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_galaxy": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_generic": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_moon": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_neptune": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_terra": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_warp": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Vox_jupiter": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Vox_meteorite": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "Vox_wormhole": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "02_character": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "Wernicke-Green-Blue": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Green-Cream": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-Green-Green": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Green-Purple": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Green-White": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-Grey-Blue": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Wernicke-Grey-Cream": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Grey-Green": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Grey-Purple": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Grey-White": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-Orange-Blue": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Wernicke-Orange-Cream": {
+        "att_chance": 0.02,
+        "black_list_att": []
+      },
+      "Wernicke-Orange-Green": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-Orange-Purple": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Orange-White": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Purple-Blue": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Purple-Cream": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-Purple-Green": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-Purple-Purple": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "Wernicke-Purple-White": {
+        "att_chance": 0.02,
+        "black_list_att": []
+      },
+      "Wernicke-White-Blue": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "Wernicke-White-Cream": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-White-Green": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-White-Purple": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "Wernicke-White-White": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "03_eyes": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-001": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-002": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-003": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-004": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-005": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-006": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-007": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-008": {
+        "att_chance": 0.08,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-009": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-010": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-011": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-012": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-013": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-014": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      },
+      "eyes-Wernicke-015": {
+        "att_chance": 0.15,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  },
+  "04_features": {
+    "attributes": {
+      "0_no_attributes": {
+        "att_chance": 0,
+        "black_list_att": []
+      },
+      "features-Wernicke-001": {
+        "att_chance": 0.05,
+        "black_list_att": []
+      },
+      "features-Wernicke-002": {
+        "att_chance": 0.1,
+        "black_list_att": []
+      },
+      "features-Wernicke-003": {
+        "att_chance": 0.2,
+        "black_list_att": []
+      },
+      "features-Wernicke-004": {
+        "att_chance": 0.4,
+        "black_list_att": []
+      },
+      "features-Wernicke-005": {
+        "att_chance": 0.5,
+        "black_list_att": []
+      },
+      "features-Wernicke-006": {
+        "att_chance": 0.6,
+        "black_list_att": []
+      },
+      "features-Wernicke-007": {
+        "att_chance": 0.7,
+        "black_list_att": []
+      },
+      "features-Wernicke-008": {
+        "att_chance": 0.8,
+        "black_list_att": []
+      },
+      "features-Wernicke-009": {
+        "att_chance": 0.9,
+        "black_list_att": []
+      },
+      "features-Wernicke-010": {
+        "att_chance": 0.95,
+        "black_list_att": []
+      },
+      "features-Wernicke-011": {
+        "att_chance": 0.85,
+        "black_list_att": []
+      },
+      "features-Wernicke-012": {
+        "att_chance": 0.75,
+        "black_list_att": []
+      },
+      "features-Wernicke-013": {
+        "att_chance": 0.65,
+        "black_list_att": []
+      },
+      "features-Wernicke-014": {
+        "att_chance": 0.55,
+        "black_list_att": []
+      },
+      "features-Wernicke-015": {
+        "att_chance": 0.45,
+        "black_list_att": []
+      }
+    },
+    "link_att": null
+  }
+}
