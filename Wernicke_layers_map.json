@@ -6,67 +6,67 @@
         "black_list_att": []
       },
       "Vox_dk": {
-        "att_chance": 0.02,
+        "att_chance": 0.01,
         "black_list_att": []
       },
       "Vox_chipsahoy": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_lion": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_backbone": {
-        "att_chance": 0.1,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_vkr": {
-        "att_chance": 0.1,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Vox_tpt": {
-        "att_chance": 0.1,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_earth": {
-        "att_chance": 0.15,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Vox_galaxy": {
-        "att_chance": 0.15,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Vox_generic": {
-        "att_chance": 0.15,
+        "att_chance": 0.60,
         "black_list_att": []
       },
       "Vox_moon": {
-        "att_chance": 0.15,
+        "att_chance": 0.60,
         "black_list_att": []
       },
-      "Vox_neptune": {
-        "att_chance": 0.15,
+      "Vox_neptune":
+        "att_chance": 0.60,
         "black_list_att": []
       },
       "Vox_terra": {
-        "att_chance": 0.15,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_warp": {
-        "att_chance": 0.15,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_jupiter": {
-        "att_chance": 0.05,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Vox_meteorite": {
-        "att_chance": 0.05,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Vox_wormhole": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       }
     },
@@ -79,7 +79,7 @@
         "black_list_att": []
       },
       "Wernicke-Green-Blue": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Green-Cream": {
@@ -87,11 +87,11 @@
         "black_list_att": []
       },
       "Wernicke-Green-Green": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Green-Purple": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Green-White": {
@@ -99,19 +99,19 @@
         "black_list_att": []
       },
       "Wernicke-Grey-Blue": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Wernicke-Grey-Cream": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Grey-Green": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Grey-Purple": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Grey-White": {
@@ -119,7 +119,7 @@
         "black_list_att": []
       },
       "Wernicke-Orange-Blue": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Wernicke-Orange-Cream": {
@@ -131,19 +131,19 @@
         "black_list_att": []
       },
       "Wernicke-Orange-Purple": {
-        "att_chance": 0.15,
+        "att_chance": 0.01,
         "black_list_att": []
       },
       "Wernicke-Orange-White": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Purple-Blue": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Purple-Cream": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-Purple-Green": {
@@ -151,11 +151,11 @@
         "black_list_att": []
       },
       "Wernicke-Purple-Purple": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Wernicke-Purple-White": {
-        "att_chance": 0.02,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Wernicke-White-Blue": {
@@ -163,15 +163,15 @@
         "black_list_att": []
       },
       "Wernicke-White-Cream": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-White-Green": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-White-Purple": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Wernicke-White-White": {
@@ -192,23 +192,23 @@
         "black_list_att": []
       },
       "eyes-Wernicke-002": {
-        "att_chance": 0.15,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "eyes-Wernicke-003": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-004": {
-        "att_chance": 0.08,
+        "att_chance": 0.01,
         "black_list_att": []
       },
       "eyes-Wernicke-005": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-006": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-007": {
@@ -216,23 +216,23 @@
         "black_list_att": []
       },
       "eyes-Wernicke-008": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "eyes-Wernicke-009": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-010": {
-        "att_chance": 0.1,
+        "att_chance": 1,
         "black_list_att": []
       },
       "eyes-Wernicke-011": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-012": {
-        "att_chance": 0.15,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "eyes-Wernicke-013": {
@@ -240,11 +240,11 @@
         "black_list_att": []
       },
       "eyes-Wernicke-014": {
-        "att_chance": 0.15,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "eyes-Wernicke-015": {
-        "att_chance": 0.15,
+        "att_chance": 1,
         "black_list_att": []
       }
     },
@@ -257,7 +257,7 @@
         "black_list_att": []
       },
       "features-Wernicke-001": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "features-Wernicke-002": {
@@ -265,55 +265,55 @@
         "black_list_att": []
       },
       "features-Wernicke-003": {
-        "att_chance": 0.2,
-        "black_list_att": []
-      },
-      "features-Wernicke-004": {
         "att_chance": 0.4,
         "black_list_att": []
       },
+      "features-Wernicke-004": {
+        "att_chance": 0.01
+        "black_list_att": []
+      },
       "features-Wernicke-005": {
-        "att_chance": 0.5,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "features-Wernicke-006": {
-        "att_chance": 0.6,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "features-Wernicke-007": {
-        "att_chance": 0.7,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "features-Wernicke-008": {
-        "att_chance": 0.8,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "features-Wernicke-009": {
-        "att_chance": 0.9,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "features-Wernicke-010": {
-        "att_chance": 0.95,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "features-Wernicke-011": {
-        "att_chance": 0.85,
+        "att_chance": 1,
         "black_list_att": []
       },
       "features-Wernicke-012": {
-        "att_chance": 0.75,
+        "att_chance": 1,
         "black_list_att": []
       },
       "features-Wernicke-013": {
-        "att_chance": 0.65,
+        "att_chance": 1,
         "black_list_att": []
       },
       "features-Wernicke-014": {
-        "att_chance": 0.55,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "features-Wernicke-015": {
-        "att_chance": 0.45,
+        "att_chance": 0.1,
         "black_list_att": []
       }
     },

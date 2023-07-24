@@ -18,11 +18,11 @@
         "black_list_att": []
       },
       "Vox_backbone": {
-        "att_chance": 0.4,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_vkr": {
-        "att_chance": 0.04,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Vox_tpt": {
@@ -45,7 +45,7 @@
         "att_chance": 0.60,
         "black_list_att": []
       },
-      "Vox_neptune": {
+      "Vox_neptune":
         "att_chance": 0.60,
         "black_list_att": []
       },
@@ -58,11 +58,11 @@
         "black_list_att": []
       },
       "Vox_jupiter": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Vox_meteorite": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Vox_wormhole": {
@@ -83,19 +83,19 @@
         "black_list_att": []
       },
       "Broca-Brown-Green": {
-        "att_chance": 0.4286,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Brown-Red": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Brown-White": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Brown-Yellow": {
-        "att_chance": 0.1429,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Broca-Green-Black": {
@@ -103,19 +103,19 @@
         "black_list_att": []
       },
       "Broca-Green-Green": {
-        "att_chance": 0.4286,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Green-Red": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Green-White": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Green-Yellow": {
-        "att_chance": 0.1429,
+        "att_chance": 0.01,
         "black_list_att": []
       },
       "Broca-Maroon-Black": {
@@ -123,19 +123,19 @@
         "black_list_att": []
       },
       "Broca-Maroon-Green": {
-        "att_chance": 0.4286,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Maroon-Red": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Maroon-White": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Maroon-Yellow": {
-        "att_chance": 0.1429,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Orange-Black": {
@@ -143,19 +143,19 @@
         "black_list_att": []
       },
       "Broca-Orange-Green": {
-        "att_chance": 0.4286,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Orange-Red": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Orange-White": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Orange-Yellow": {
-        "att_chance": 0.1429,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Purple-Black": {
@@ -163,19 +163,19 @@
         "black_list_att": []
       },
       "Broca-Purple-Green": {
-        "att_chance": 0.4286,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Broca-Purple-Red": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Purple-White": {
-        "att_chance": 0.2857,
+        "att_chance": 1,
         "black_list_att": []
       },
       "Broca-Purple-Yellow": {
-        "att_chance": 0.1429,
+        "att_chance": 0.1,
         "black_list_att": []
       }
     },
@@ -188,11 +188,11 @@
         "black_list_att": []
       },
       "Eyes-Broca-001": {
-        "att_chance": 0.05,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Eyes-Broca-002": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Eyes-Broca-003": {
@@ -212,35 +212,35 @@
         "black_list_att": []
       },
       "Eyes-Broca-007": {
-        "att_chance": 0.2,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Eyes-Broca-008": {
-        "att_chance": 0.2,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Eyes-Broca-009": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Eyes-Broca-010": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Eyes-Broca-011": {
-        "att_chance": 0.3,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Eyes-Broca-012": {
-        "att_chance": 0.3,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Eyes-Broca-013": {
-        "att_chance": 0.35,
+        "att_chance": 0.15,
         "black_list_att": []
       },
       "Eyes-Broca-014": {
-        "att_chance": 0.35,
+        "att_chance": 0.15,
         "black_list_att": []
       },
       "Eyes-Broca-015": {
@@ -257,11 +257,11 @@
         "black_list_att": []
       },
       "Mouth-Broca-001": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Mouth-Broca-002": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Mouth-Broca-003": {
@@ -281,39 +281,39 @@
         "black_list_att": []
       },
       "Mouth-Broca-007": {
-        "att_chance": 0.2,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Mouth-Broca-008": {
-        "att_chance": 0.2,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Mouth-Broca-009": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Mouth-Broca-010": {
-        "att_chance": 0.25,
+        "att_chance": 0.45,
         "black_list_att": []
       },
       "Mouth-Broca-011": {
-        "att_chance": 0.3,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Mouth-Broca-012": {
-        "att_chance": 0.3,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Mouth-Broca-013": {
-        "att_chance": 0.35,
+        "att_chance": 0.15,
         "black_list_att": []
       },
       "Mouth-Broca-014": {
-        "att_chance": 0.35,
+        "att_chance": 0.15,
         "black_list_att": []
       },
       "Mouth-Broca-015": {
-        "att_chance": 0.4,
+        "att_chance": 0.01,
         "black_list_att": []
       }
     },
