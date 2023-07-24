@@ -6,67 +6,67 @@
         "black_list_att": []
       },
       "Vox_dk": {
-        "att_chance": 0.02,
+        "att_chance": 0.01,
         "black_list_att": []
       },
       "Vox_chipsahoy": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_lion": {
-        "att_chance": 0.08,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_backbone": {
-        "att_chance": 0.1,
+        "att_chance": 0.4,
         "black_list_att": []
       },
       "Vox_vkr": {
-        "att_chance": 0.1,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_tpt": {
-        "att_chance": 0.1,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_earth": {
-        "att_chance": 0.15,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Vox_galaxy": {
-        "att_chance": 0.15,
+        "att_chance": 0.1,
         "black_list_att": []
       },
       "Vox_generic": {
-        "att_chance": 0.15,
+        "att_chance": 0.60,
         "black_list_att": []
       },
       "Vox_moon": {
-        "att_chance": 0.15,
+        "att_chance": 0.60,
         "black_list_att": []
       },
       "Vox_neptune": {
-        "att_chance": 0.15,
+        "att_chance": 0.60,
         "black_list_att": []
       },
       "Vox_terra": {
-        "att_chance": 0.15,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_warp": {
-        "att_chance": 0.15,
+        "att_chance": 0.04,
         "black_list_att": []
       },
       "Vox_jupiter": {
-        "att_chance": 0.05,
+        "att_chance": 0.25,
         "black_list_att": []
       },
       "Vox_meteorite": {
-        "att_chance": 0.05,
+        "att_chance": 0.25,
         "black_list_att": []
       },
       "Vox_wormhole": {
-        "att_chance": 0.05,
+        "att_chance": 0.04,
         "black_list_att": []
       }
     },
