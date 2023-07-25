@@ -1,271 +1,271 @@
 {
-  "01_background": {
-    "attributes": {
-      "0_no_attributes": {
-        "att_chance": 0,
-        "black_list_att": []
-      },
-      "Vox_dk": {
-        "att_chance": 0.01,
-        "black_list_att": []
-      },
-      "Vox_chipsahoy": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_lion": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_backbone": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_vkr": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Vox_tpt": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_earth": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Vox_galaxy": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Vox_generic": {
-        "att_chance": 0.60,
-        "black_list_att": []
-      },
-      "Vox_moon": {
-        "att_chance": 0.60,
-        "black_list_att": []
-      },
-      "Vox_neptune":
-        "att_chance": 0.60,
-        "black_list_att": []
-      },
-      "Vox_terra": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_warp": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Vox_jupiter": {
-        "att_chance": 0.45,
-        "black_list_att": []
-      },
-      "Vox_meteorite": {
-        "att_chance": 0.45,
-        "black_list_att": []
-      },
-      "Vox_wormhole": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      }
-    },
-    "link_att": null
-  },
-  "02_character": {
-    "attributes": {
-      "0_no_attributes": {
-        "att_chance": 0,
-        "black_list_att": []
-      },
-      "GPT-Black": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "GPT-Blue": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "GPT-Green": {
-        "att_chance": 1,
-        "black_list_att": []
-      },
-      "GPT-Purple": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "GPT-Red": {
-        "att_chance": 1,
-        "black_list_att": []
-      }
-    },
-    "link_att": null
-  },
-  "03_eyes": {
-    "attributes": {
-      "0_no_attributes": {
-        "att_chance": 0,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-001": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-002": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-003": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-004": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-005": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-006": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-007": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-008": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-009": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-010": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-011": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-012": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-013": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-014": {
-        "att_chance": 0.01,
-        "black_list_att": []
-      },
-      "Eyes-GPTX-015": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      }
-    },
-    "link_att": null
-  },
-  "04_makeup": {
-    "attributes": {
-      "0_no_attributes": {
-        "att_chance": 0,
-        "black_list_att": []
-      },
-      "Makeup-GPTX-001": {
-        "att_chance": 1,
-        "black_list_att": []
-      },
-      "Makeup-GPTX-002": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Makeup-GPTX-003": {
-        "att_chance": 1,
-        "black_list_att": []
-      },
-      "Makeup-GPTX-004": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Makeup-GPTX-005": {
-        "att_chance": 0.01,
-        "black_list_att": []
-      }
-    },
-    "link_att": null
-  },
-  "05_features": {
-    "attributes": {
-      "0_no_attributes": {
-        "att_chance": 0,
-        "black_list_att": []
-      },
-      "Features-GPTX-001": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Features-GPTX-002": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-003": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Features-GPTX-004": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Features-GPTX-005": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-006": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Features-GPTX-007": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Features-GPTX-008": {
-        "att_chance": 0.4,
-        "black_list_att": []
-      },
-      "Features-GPTX-009": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-010": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-011": {
-        "att_chance": 0.04,
-        "black_list_att": []
-      },
-      "Features-GPTX-012": {
-        "att_chance": 0.01,
-        "black_list_att": []
-      },
-      "Features-GPTX-013": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-014": {
-        "att_chance": 0.1,
-        "black_list_att": []
-      },
-      "Features-GPTX-015": {
-        "att_chance": 0.15,
-        "black_list_att": []
-      }
-    },
-    "link_att": null
-  }
+	"01_background": {
+		"attributes": {
+			"0_no_attributes": {
+				"att_chance": 0,
+				"black_list_att": []
+			},
+			"Vox_dk": {
+				"att_chance": 0.01,
+				"black_list_att": []
+			},
+			"Vox_chipsahoy": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_lion": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_backbone": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_vkr": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Vox_tpt": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_earth": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Vox_galaxy": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Vox_generic": {
+				"att_chance": 0.60,
+				"black_list_att": []
+			},
+			"Vox_moon": {
+				"att_chance": 0.60,
+				"black_list_att": []
+			},
+			"Vox_neptune": {
+				"att_chance": 0.60,
+				"black_list_att": []
+			},
+			"Vox_terra": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_warp": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Vox_jupiter": {
+				"att_chance": 0.45,
+				"black_list_att": []
+			},
+			"Vox_meteorite": {
+				"att_chance": 0.45,
+				"black_list_att": []
+			},
+			"Vox_wormhole": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			}
+		},
+		"link_att": null
+	},
+	"02_character": {
+		"attributes": {
+			"0_no_attributes": {
+				"att_chance": 0,
+				"black_list_att": []
+			},
+			"GPT-Black": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"GPT-Blue": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"GPT-Green": {
+				"att_chance": 1,
+				"black_list_att": []
+			},
+			"GPT-Purple": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"GPT-Red": {
+				"att_chance": 1,
+				"black_list_att": []
+			}
+		},
+		"link_att": null
+	},
+	"03_eyes": {
+		"attributes": {
+			"0_no_attributes": {
+				"att_chance": 0,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-001": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-002": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-003": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-004": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-005": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-006": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-007": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-008": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-009": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-010": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-011": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-012": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-013": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-014": {
+				"att_chance": 0.01,
+				"black_list_att": []
+			},
+			"Eyes-GPTX-015": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			}
+		},
+		"link_att": null
+	},
+	"04_makeup": {
+		"attributes": {
+			"0_no_attributes": {
+				"att_chance": 0,
+				"black_list_att": []
+			},
+			"Makeup-GPTX-001": {
+				"att_chance": 1,
+				"black_list_att": []
+			},
+			"Makeup-GPTX-002": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Makeup-GPTX-003": {
+				"att_chance": 1,
+				"black_list_att": []
+			},
+			"Makeup-GPTX-004": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Makeup-GPTX-005": {
+				"att_chance": 0.01,
+				"black_list_att": []
+			}
+		},
+		"link_att": null
+	},
+	"05_features": {
+		"attributes": {
+			"0_no_attributes": {
+				"att_chance": 0,
+				"black_list_att": []
+			},
+			"Features-GPTX-001": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Features-GPTX-002": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-003": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Features-GPTX-004": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Features-GPTX-005": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-006": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Features-GPTX-007": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Features-GPTX-008": {
+				"att_chance": 0.4,
+				"black_list_att": []
+			},
+			"Features-GPTX-009": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-010": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-011": {
+				"att_chance": 0.04,
+				"black_list_att": []
+			},
+			"Features-GPTX-012": {
+				"att_chance": 0.01,
+				"black_list_att": []
+			},
+			"Features-GPTX-013": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-014": {
+				"att_chance": 0.1,
+				"black_list_att": []
+			},
+			"Features-GPTX-015": {
+				"att_chance": 0.15,
+				"black_list_att": []
+			}
+		},
+		"link_att": null
+	}
 }
